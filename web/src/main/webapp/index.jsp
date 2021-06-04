@@ -18,8 +18,5 @@
   <n> 
     You can easily modify your CODE.
   </n>
-  <n>
-    This is new line.
-  </n>
 </body>
 </html>
