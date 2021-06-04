@@ -15,9 +15,7 @@
   <p>
     This is a very simple example web page on TOMCAT.
   </p>
-  <p>
-    You can easily modify your web content
-  </p>
+  <n> You can easily modify your code </n>
   <n>
     This is new line.
   </n>
